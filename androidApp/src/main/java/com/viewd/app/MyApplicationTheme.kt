@@ -1,4 +1,4 @@
-package com.viewd.app.android
+package com.viewd.app
 
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.foundation.shape.RoundedCornerShape

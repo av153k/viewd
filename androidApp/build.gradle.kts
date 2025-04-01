@@ -5,10 +5,10 @@ plugins {
 }
 
 android {
-    namespace = "com.viewd.app.android"
+    namespace = "com.viewd.app"
     compileSdk = 35
     defaultConfig {
-        applicationId = "com.viewd.app.android"
+        applicationId = "com.viewd.app"
         minSdk = 24
         targetSdk = 35
         versionCode = 1
